@@ -1,6 +1,7 @@
-<h3>ENTER YOUR NAME : Kihsor Kumar </H3>
-<H3>ENTER YOUR REGISTER NO. 21223240072</H3>
 <H3>EX. NO.6</H3>
+<h3>ENTER YOUR NAME : Kishor Kumar B </H3>
+<H3>ENTER YOUR REGISTER NO. 21223240072</H3>
+
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
